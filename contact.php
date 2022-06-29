@@ -24,7 +24,7 @@
                     <div class="contact__widget">
                         <span class="icon_phone"></span>
                         <h4>Phone</h4>
-                        <p>081 537 8057</p>
+                        <p>0788819998</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
@@ -45,7 +45,7 @@
                     <div class="contact__widget">
                         <span class="icon_mail_alt"></span>
                         <h4>Email</h4>
-                        <p>nhanttgcc19274@fpt.edu.vn</p>
+                        <p>tuandmqgcc19102@fpt.edu.vn</p>
                     </div>
                 </div>
             </div>
