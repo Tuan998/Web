@@ -108,7 +108,7 @@ include_once("connection.php");
 
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-envelope"></i> nhanttgcc19274@fpt.edu.vn</li>
+                <li><i class="fa fa-envelope"></i> tuandmqgcc19102@fpt.edu.vn</li>
             </ul>
         </div>
         <div class="col-lg-3">
@@ -134,7 +134,7 @@ include_once("connection.php");
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li><i class="fa fa-envelope"></i> nhanttgcc19274@fpt.edu.vn</li>
+                                <li><i class="fa fa-envelope"></i> tuandmqgcc19102@fpt.edu.vn</li>
                             </ul>
                         </div>
                     </div>
@@ -390,8 +390,8 @@ include_once("connection.php");
                         </div>
                         <ul>
                             <li>Address: Ninh Kieu, Can Tho, Vietnam</li>
-                            <li>Phone: 081 537 8057</li>
-                            <li>Email: nhanttgcc19274@fpt.edu.vn</li>
+                            <li>Phone: 078 881 9998</li>
+                            <li>Email: tuandmqgcc19102@fpt.edu.vn</li>
                         </ul>
                     </div>
                 </div>
